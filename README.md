@@ -1,2 +1,4 @@
-# Jogos_part_2
-Jogos criados por três pessoas em linguagem c.
+# Jogo_part_2
+Jogo criado por três pessoas em linguagem c.
+Turma: CC1TA
+Criadores: Jean(Maria Emanuele), Andre Barbosa, Pietra Reis.
