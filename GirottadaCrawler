@@ -264,7 +264,6 @@ int main(void) {
                         case '>': frenteX++; break;
                     }
 
-                    // --- MOVIMENTAÇÃO DOS MONSTROS (IA) ---
                     for (int y = 0; y < tam_mapa; y++) {
                         for (int x = 0; x < tam_mapa; x++) {
                             if (mapa_atual[y][x] == 'X' && rand() % 4 == 0) {
@@ -355,7 +354,6 @@ int main(void) {
                         }
                     }
 
-                    // Verificação de Dano e Perda de Vidas
                     int tomou_dano = 0;
                     if (mapa_atual[p.y][p.x] == '#') tomou_dano = 1; 
                     
